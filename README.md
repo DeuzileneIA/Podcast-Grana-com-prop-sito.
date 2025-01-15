@@ -66,22 +66,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
-
-<p>
-
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspDeuzilêne Santtos<br>
-    &nbsp&nbsp&nbsp
+## 👨‍💻 Exp
     <a 
         href="https://github.com/Deuzi_santtos_">
         GitHub
     </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/Deuzilênesanttos-exe">
-        LinkedIn
+
  
 
 ---
