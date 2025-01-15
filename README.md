@@ -82,16 +82,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <a 
         href="www.linkedin.com/in/Deuzilênesanttos-exe">
         LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/deuzi_santtos_exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+ 
 
 ---
 
